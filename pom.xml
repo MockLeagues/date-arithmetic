@@ -3,7 +3,7 @@
     <groupId>org.wiztools.util</groupId>
     <artifactId>date-arithmetic</artifactId>
     <packaging>jar</packaging>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <name>date-arithmetic</name>
     <url>https://github.com/wiztools/date-arithmetic</url>
     <scm>
