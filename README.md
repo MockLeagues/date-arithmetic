@@ -13,3 +13,7 @@ A cli tool written in Java to perform Date arithmetic operations:
     Example:
         1979-02-15 + 31y
     Give EOF character or press ^+C to quit.
+
+This tool is available as part of _"The Joy of Unix in Windows Tool Bundle"_:
+
+[![](http://static.wiztools.org/wiztools-cli-tools.png)](http://cli-bundle.wiztools.org/)
